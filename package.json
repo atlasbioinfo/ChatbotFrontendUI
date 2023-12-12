@@ -1,0 +1,30 @@
+{
+  "name": "plantscience_frontend",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.16.9",
+    "@quasar/vite-plugin": "^1.6.0",
+    "axios": "^0.21.4",
+    "axios-cache-adapter": "^2.7.3",
+    "echarts": "^5.4.3",
+    "pako": "^2.1.0",
+    "quasar": "^2.14.1",
+    "sass": "^1.69.5",
+    "spark-md5": "^3.0.2",
+    "uuid": "^9.0.1",
+    "vue": "^3.3.11",
+    "vue-echarts": "^6.6.2",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.1",
+    "vite": "^5.0.5"
+  }
+}
